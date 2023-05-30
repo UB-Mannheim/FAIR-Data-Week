@@ -16,7 +16,7 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 | ------------- |:-------------:| -----:| -----:|
 | FAIR Data Week: F for Findable      | 30.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7984881](https://doi.org/10.5281/zenodo.7984881) |
 | FAIR Data Week: A for Accessible      | 31.05.2023 | 12:30-12:50 pm | soon |
-| FAIR Data Week: I for Interoperable     | 01.02.2023 | 12:30-12:50 pm | soon  |
+| FAIR Data Week: I for Interoperable     | 01.06.2023 | 12:30-12:50 pm | soon  |
 | FAIR Data Week: R for Reusable     | 02.06.2023 | 12:30-12:50 pm | soon  |
 
 **Useful resources on the FAIR principles**:
