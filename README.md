@@ -15,7 +15,7 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 | Title        | Date           | Time  | DOI  |
 | ------------- |:-------------:| -----:| -----:|
 | FAIR Data Week: F for Findable      | 30.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7984881](https://doi.org/10.5281/zenodo.7984881) |
-| FAIR Data Week: A for Accessible      | 31.05.2023 | 12:30-12:50 pm | soon |
+| FAIR Data Week: A for Accessible      | 31.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7989605](https://doi.org/10.5281/zenodo.7989605) |
 | FAIR Data Week: I for Interoperable     | 01.06.2023 | 12:30-12:50 pm | soon  |
 | FAIR Data Week: R for Reusable     | 02.06.2023 | 12:30-12:50 pm | soon  |
 
@@ -51,3 +51,25 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 **Useful Resources**
 
 * [Findability in the FAIR Cookbook for FAIR Doers from ELIXIR Europe](https://faircookbook.elixir-europe.org/content/recipes/findability)
+
+## FAIR Data Week: A for Accessible
+
+* [A1: (Meta)data are retrievable by their identifier using a standardised communication protocol](https://www.go-fair.org/fair-principles/metadata-retrievable-identifier-standardised-communication-protocol)
+   * [A1.1: The protocol is open, free and universally implementable](https://www.go-fair.org/fair-principles/a1-1-protocol-open-free-universally-implementable)
+   * [A1.2: The protocol allows for an authentication and authorisation procedure where necessary](https://www.go-fair.org/fair-principles/a1-2-protocol-allows-authentication-authorisation-required)
+* [A2: Metadata should be accessible even when the data is no longer available](https://www.go-fair.org/fair-principles/a2-metadata-accessible-even-data-no-longer-available)
+
+**Idea**: A user needs to know how data can be accessed, possibly including authentication and authorisation. Authentication verifies the identity of a user. Authorization gives those users permission to access a resource.
+
+**Motivation**: to prevent data loss, to prevent unauthorised access, to enable authorised access, to enable data (re)use, to enable reproducibility of research, to increase the visibility of research.
+
+**How to make your data accessible?** 
+
+* Deposit your data to a data repository. Describe accessibility conditions of data. Registries of data repositories are:
+   * https://www.re3data.org 
+   * https://fairsharing.org 
+* In case of sensitive data, delegate accessibility issues to a research data center:
+   * [research data centers accredited by the German Data Forum (RatSWD)](https://www.konsortswd.de/en/datacentres/all-datacentres)
+   * [research data centers at Universities in Germany, Austria and Switzerland](https://www.forschungsdaten.org/index.php/FDM-Kontakte)
+* Publish a data paper in a data journal. Describe accessibility conditions of data. A list of data journals:
+   * https://www.forschungsdaten.org/index.php/Data_Journals
