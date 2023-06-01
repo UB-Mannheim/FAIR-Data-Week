@@ -16,7 +16,7 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 | ------------- |:-------------:| -----:| -----:|
 | FAIR Data Week: F for Findable      | 30.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7984881](https://doi.org/10.5281/zenodo.7984881) |
 | FAIR Data Week: A for Accessible      | 31.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7989605](https://doi.org/10.5281/zenodo.7989605) |
-| FAIR Data Week: I for Interoperable     | 01.06.2023 | 12:30-12:50 pm | soon  |
+| FAIR Data Week: I for Interoperable     | 01.06.2023 | 12:30-12:50 pm | [10.5281/zenodo.7993735](https://doi.org/10.5281/zenodo.7993735)  |
 | FAIR Data Week: R for Reusable     | 02.06.2023 | 12:30-12:50 pm | soon  |
 
 **Useful resources on the FAIR principles**:
@@ -73,3 +73,32 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
    * [research data centers at Universities in Germany, Austria and Switzerland](https://www.forschungsdaten.org/index.php/FDM-Kontakte)
 * Publish a data paper in a data journal. Describe accessibility conditions of data. A list of data journals:
    * https://www.forschungsdaten.org/index.php/Data_Journals
+* Advertise your data and describe accessibility conditions
+
+**Useful Resources**
+
+* [Accessibility in the FAIR Cookbook for FAIR Doers from ELIXIR Europe](https://faircookbook.elixir-europe.org/content/recipes/accessibility)
+
+## FAIR Data Week: I for Interoperable
+
+* [I1: (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation](https://www.go-fair.org/fair-principles/i1-metadata-use-formal-accessible-shared-broadly-applicable-language-knowledge-representation)
+* [I2: (Meta)data use vocabularies that follow the FAIR principles](https://www.go-fair.org/fair-principles/i2-metadata-use-vocabularies-follow-fair-principles)
+* [I3: (Meta)data include qualified references to other (meta)data](https://www.go-fair.org/fair-principles/i3-metadata-include-qualified-references-metadata)
+
+**Idea**: Interoperability is ability to exchange metadata and data with various agents (humans, machines, institutions, organizations and countries). Metadata and data are easy to integrate with other (meta)data and to use with different software and workflows.
+
+**Motivation**: to exchange metadata and data, to improve trust and communication, to enable (meta)data (re)use, to enable reproducibility of research, to increase the visibility of research.
+
+**How to make your data interoperable?** 
+
+* Find a data repository, where you can specify the metadata using the vocabularies which follow the FAIR principles. Registries of data repositories are:
+   * https://www.re3data.org 
+   * https://fairsharing.org 
+* Add references to other data into your metadata, use standard data formats and deposit your data to the data repository
+* Upload metadata for your data to interoperable general-purpose or domain-specific knowledge graphs:
+   * https://www.wikidata.org
+* Advertise your data with references to other (meta)data
+
+**Useful Resources**
+
+* [Interoperability in the FAIR Cookbook for FAIR Doers from ELIXIR Europe](https://faircookbook.elixir-europe.org/content/recipes/interoperability)
