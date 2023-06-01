@@ -26,8 +26,18 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 * [OpenAIRE Guide for Researchers "How to make your data FAIR”](https://www.openaire.eu/how-to-make-your-data-fair)
 * [How to FAIR](https://www.howtofair.dk)
 * [FAIRdata Forum](https://fairdataforum.org)
-* [Course "Open and FAIR research data"](https://www.fosteropenscience.eu/node/2820)
-* [Course "Assessing the FAIRness of data"](https://www.fosteropenscience.eu/node/2644)
+* FAIR courses:
+   * [Course "Open and FAIR research data"](https://www.fosteropenscience.eu/node/2820)
+   * [Course "Assessing the FAIRness of data"](https://www.fosteropenscience.eu/node/2644)
+* [FAIR Nanopublications](https://github.com/peta-pico/fair-nanopubs)
+   * [FAIR Vocabulary](https://peta-pico.github.io/FAIR-nanopubs/principles/index-en.html)
+   * [FAIR Implementation Profile (FIP) Ontology](https://peta-pico.github.io/FAIR-nanopubs/fip/index-en.html)
+   * [FAIR Implementation Choices and Challenges Model](https://peta-pico.github.io/FAIR-nanopubs/icc/index-en.html)
+* FAIR assessment resources:
+   * [F-UJI Automated FAIR Data Assessment Tool](https://www.f-uji.net)
+   * Lang, Kevin, Assmann, Cora, Neute, Nadine, Gerlach, Roman, & Rex, Jessica. (2023). FAIR Assessment Tools Overview (2.1). 3. Sächsische FDM-Tagung, Leipzig. Zenodo. https://doi.org/10.5281/zenodo.7701941
+   * Jones, Sarah, & Grootveld, Marjan. (2017, November 24). How FAIR are your data?. Zenodo. https://doi.org/10.5281/zenodo.1065991
+   * [FAIR Data Self Assessment Tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool)
 
 ## FAIR Data Week: F for Findable
 
