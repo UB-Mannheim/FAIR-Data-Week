@@ -17,10 +17,11 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 | FAIR Data Week: F for Findable      | 30.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7984881](https://doi.org/10.5281/zenodo.7984881) |
 | FAIR Data Week: A for Accessible      | 31.05.2023 | 12:30-12:50 pm | [10.5281/zenodo.7989605](https://doi.org/10.5281/zenodo.7989605) |
 | FAIR Data Week: I for Interoperable     | 01.06.2023 | 12:30-12:50 pm | [10.5281/zenodo.7993735](https://doi.org/10.5281/zenodo.7993735)  |
-| FAIR Data Week: R for Reusable     | 02.06.2023 | 12:30-12:50 pm | soon  |
+| FAIR Data Week: R for Reusable     | 02.06.2023 | 12:30-12:50 pm | [10.5281/zenodo.7997250](https://doi.org/10.5281/zenodo.7997250)  |
 
 **Useful resources on the FAIR principles**:
 
+* European Commission, Directorate-General for Research and Innovation, "Turning FAIR into reality" – Final report and action plan from the European Commission expert group on FAIR data, Publications Office, 2018, https://data.europa.eu/doi/10.2777/1524
 * [Guidelines on FAIR Data Management in Horizon 2020](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 * [FAIR principles at GO FAIR](https://www.go-fair.org/fair-principles)
 * [OpenAIRE Guide for Researchers "How to make your data FAIR”](https://www.openaire.eu/how-to-make-your-data-fair)
@@ -112,3 +113,27 @@ The first [FAIR Data Week](https://www.bib.uni-mannheim.de/lehren-und-forschen/f
 **Useful Resources**
 
 * [Interoperability in the FAIR Cookbook for FAIR Doers from ELIXIR Europe](https://faircookbook.elixir-europe.org/content/recipes/interoperability)
+
+## FAIR Data Week: R for Reusable
+
+* [R1: (Meta)data are richly described with a plurality of accurate and relevant attributes](https://www.go-fair.org/fair-principles/r1-metadata-richly-described-plurality-accurate-relevant-attributes)
+   * [R1.1: (Meta)data are released with a clear and accessible data usage license](https://www.go-fair.org/fair-principles/r1-1-metadata-released-clear-accessible-data-usage-license)
+   * [R1.2: (Meta)data are associated with detailed provenance](https://www.go-fair.org/fair-principles/r1-2-metadata-associated-detailed-provenance)
+   * [R1.3: (Meta)data meet domain-relevant community standards](https://www.go-fair.org/fair-principles/r1-3-metadata-meet-domain-relevant-community-standards)
+
+**Idea**: Metadata and data should be well-described so that they can be used, replicated and combined in different settings.
+
+**Motivation**: to facilitate collaborations and further research, to acknowledge the owner(s) by citing it, to enable reproducibility of research, to increase the visibility of research
+
+**How to make your data reusable?**
+
+* Deposit your data to a data repository. Describe as much metadata as possible following the community standards and include a license. Registries of data repositories are:
+   * https://www.re3data.org 
+   * https://fairsharing.org 
+* Publish a data paper in a data journal. Describe as much metadata as possible following the community standards and include a license. A list of data journals:
+   * https://www.forschungsdaten.org/index.php/Data_Journals 
+* Advertise your data attaching as much metadata as possible following the community standards and include a license 
+
+**Useful Resources**
+
+* [Reusability in the FAIR Cookbook for FAIR Doers from ELIXIR Europe](https://faircookbook.elixir-europe.org/content/recipes/reusability)
